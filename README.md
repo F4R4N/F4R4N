@@ -16,11 +16,3 @@
 **F4R4N/F4R4N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ***my blog app***
-- 🤔 I’m looking for help with [Shop Api](https://github.com/F4R4N/shop-django-rest-framework) Frontend
-- 📘: I'm currently working on my ***Personal Blog***
-- 📘: I'm currently contributing to [onelinerhub](https://github.com/nonunicorn/onelinerhub)
-- 📫 How to reach me: farantgh@gmail.com
-
-
