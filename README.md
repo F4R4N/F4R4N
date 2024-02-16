@@ -5,7 +5,9 @@
 <br>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=F4R4N&theme=ayu-mirage&layout=compact)](https://github.com/F4R4N/)
+<br>
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=faran&layout=compact&theme=midnight-purple&show_icons=true&hide_title=true&langs_count=14)](https://github.com/F4R4N/)
+<br>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/F4R4N/)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)](https://github.com/F4R4N/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/F4R4N/)
