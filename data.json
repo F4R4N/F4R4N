@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "id": "0",
       "topTitle": "",
@@ -8,39 +7,38 @@
       "btnLink": ""
     },
     {
-      "id": "1",
+      "id": "0",
       "topTitle": "",
       "title": "",
       "body": "",
       "btnLink": ""
     },
     {
-      "id": "2",
+      "id": "0",
       "topTitle": "",
       "title": "",
       "body": "",
       "btnLink": ""
     },
     {
-      "id": "3",
+      "id": "0",
       "topTitle": "",
       "title": "",
       "body": "",
       "btnLink": ""
     },
     {
-      "id": "4",
+      "id": "0",
       "topTitle": "",
       "title": "",
       "body": "",
       "btnLink": ""
     },
     {
-      "id": "5",
+      "id": "0",
       "topTitle": "",
       "title": "",
       "body": "",
       "btnLink": ""
     }
   ]
-}
