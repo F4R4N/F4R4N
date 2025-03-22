@@ -1,41 +1,41 @@
 [
     {
       "id": "0",
-      "topTitle": "Movie Quote API",
-      "title": "aaa",
-      "body": "helo",
+      "topTitle": "Project",
+      "title": "Movie Quote API",
+      "body": "API developed with Django rest framework, serves movies and series quotes.",
       "btnText":"See Project",
       "btnLink": "https://github.com/F4R4N/movie-quote"
     },
     {
       "id": "1",
-      "topTitle": "TodoList API",
-      "title": "",
-      "body": "",
+      "topTitle": "Project",
+      "title": "TodoList API",
+      "body": "A todo list app made with django rest framework (DRF).",
       "btnText":"See Project",
       "btnLink": "https://github.com/F4R4N/todolist"
     },
     {
       "id": "2",
-      "topTitle": "Dang Dong API",
-      "title": "",
-      "body": "",
+      "topTitle": "Project",
+      "title": "Dang Dong API",
+      "body": "Travel Share calculating web app called dang dong. Developed with DRF.",
       "btnText":"See Project",
       "btnLink": "https://github.com/F4R4N/dang-dong"
     },
     {
       "id": "3",
-      "topTitle": "Film Review API",
-      "title": "",
-      "body": "",
+      "topTitle": "Project",
+      "title": "Film Review API",
+      "body": "Film review app, Developed with django rest framework.",
       "btnText":"See Project",
       "btnLink": "https://github.com/F4R4N/film-review"
     },
     {
       "id": "4",
-      "topTitle": "Calendar App",
-      "title": "",
-      "body": "",
+      "topTitle": "Project",
+      "title": "Calendar App",
+      "body": "A simple calendar written with django. With reminder, event, Solar, Lunar and Gregorian calendar formats.",
       "btnText":"See Project",
       "btnLink": "https://github.com/F4R4N/django-calendar"
     }
