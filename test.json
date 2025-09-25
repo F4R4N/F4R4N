@@ -1,0 +1,86 @@
+[
+    {
+        "streamer": "Abolfazl Shabdol",
+        "category": "Dota2",
+        "title": "+18 Dota 2 ultimate feeding",
+        "image": "stream.png"
+    },
+    {
+        "streamer": "LilyPichu",
+        "category": "League of Legends",
+        "title": "Lily's chill League session",
+        "image": "stream.png"
+    },
+    {
+        "streamer": "Pokimane",
+        "category": "Valorant",
+        "title": "Clutching with the squad!",
+        "image": "stream.png"
+    },
+    {
+        "streamer": "xQcOW",
+        "category": "Overwatch",
+        "title": "Rage moments in Overwatch!",
+        "image": "stream.png"
+    },
+    {
+        "streamer": "Ninja",
+        "category": "Fortnite",
+        "title": "Epic Fortnite battle royale",
+        "image": "stream.png"
+    },
+    {
+        "streamer": "Shroud",
+        "category": "Escape from Tarkov",
+        "title": "Shroud's hardcore Tarkov session",
+        "image": "stream.png"
+    },
+    {
+        "streamer": "Summit1g",
+        "category": "Sea of Thieves",
+        "title": "Pirate adventures with Summit!",
+        "image": "stream.png"
+    },
+    {
+        "streamer": "Asmongold",
+        "category": "World of Warcraft",
+        "title": "World of Warcraft: Exploring Azeroth",
+        "image": "stream.png"
+    },
+    {
+        "streamer": "TimTheTatman",
+        "category": "Call of Duty: Warzone",
+        "title": "Warzone wins with TimTheTatman!",
+        "image": "stream.png"
+    },
+    {
+        "streamer": "Tfue",
+        "category": "Fortnite",
+        "title": "Tfue's insane Fortnite plays",
+        "image": "stream.png"
+    },
+    {
+        "streamer": "Valkyrae",
+        "category": "Among Us",
+        "title": "Among Us with friends",
+        "image": "stream.png"
+    },
+    {
+        "streamer": "DrLupo",
+        "category": "Destiny 2",
+        "title": "Destiny 2 raids with DrLupo",
+        "image": "stream.png"
+    },
+    {
+        "streamer": "xQcOW",
+        "category": "Minecraft",
+        "title": "xQcOW's Minecraft adventures",
+        "image": "stream.png"
+    },
+    {
+        "streamer": "Corpse Husband",
+        "category": "Among Us",
+        "title": "Corpse Husband playing Among Us",
+        "image": "stream.png"
+    }
+]
